@@ -4,4 +4,8 @@
 
 1, 1.5, 2, 1, 1, 1, 1, 2, 2, 1 
 
-1, 
+1, 2, 2, 1.5, 1, 1, UPTO37 
+
+https://www.udemy.com/python-video-workbook/learn/v4/t/lecture/6227546?start=0
+
+
