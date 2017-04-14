@@ -12,10 +12,11 @@
 
 2, 2, 3, 2, 0, 2, 3, 4, 2, 3
 
-3, 3, 2, UPTO 74
+3, 3, 2, 1.5, 1.5, 2, 2, 2, 1, 2
 
-https://www.udemy.com/python-video-workbook/learn/v4/t/lecture/6259792?start=0
-Exercise 74 - File Concatenator
+3.5, UPTO 82
 
+Exercise 82 - Astronomy
+https://www.udemy.com/python-video-workbook/learn/v4/t/lecture/6260978?start=0
 
 
